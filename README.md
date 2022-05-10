@@ -78,7 +78,7 @@ Download some pre-trained model weights to test on your images. Weights are avai
 
 ## Sources
  - [Image Super-Resolution (ISR)](https://github.com/idealo/image-super-resolution)
- - [Single Image Super-Resolution with EDSR, WDSR and SRGAN](github.com/krasserm/super-resolution)
+ - [Single Image Super-Resolution with EDSR, WDSR and SRGAN](https://github.com/krasserm/super-resolution)
  - [Sewar](https://github.com/andrewekhalel/sewar)
  - [Image Similarity Measures](https://github.com/up42/image-similarity-measures)
 
